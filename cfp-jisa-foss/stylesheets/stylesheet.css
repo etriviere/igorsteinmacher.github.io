@@ -14,6 +14,7 @@ body {
 }
 #content {
   float: left;
+  padding: 2em;
   width: 100%;
 }
 #sidebar {
