@@ -11,6 +11,10 @@ body {
 
 #wrapper {
   margin-right: 200px;
+  margin-bottom: -120px;
+  min-height: 100%;
+  height: auto !important;
+  height: 100%;  
 }
 #content {
   float: left;
@@ -21,6 +25,10 @@ body {
   float: right;
   width: 200px;
   margin-right: -200px;
+}
+
+#footer-div {
+  height: -120px;
 }
 
 a {
